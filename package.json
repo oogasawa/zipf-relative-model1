@@ -1,0 +1,17 @@
+{
+	"name": "zipf-relative-model1",
+	"version": "1.0.0",
+	"dependencies": {
+		"fast-sort": "^1.5.6",
+		"node-stringbuilder": "^2.2.6",
+		"sprintf-js": "^1.1.2",
+		"lib-r-math.js": "^1.0.86"
+	},
+  "description": "A simulator for the relative model of gene expression evolution. Single thread version.",
+  "main": "relative_model.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Osamu Ogasawara <osamu.ogasawara@gmail.com>",
+  "license": "ISC"
+}
